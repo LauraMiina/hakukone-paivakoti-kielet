@@ -22,7 +22,7 @@ export default function App() {
   const [loadError, setLoadError] = useState("");
 
   useEffect(() => {
-    fetch("/paivakoti_kielet.csv")
+    fetch(`${import.meta.env.BASE_URL}paivakoti_kielet.csv`)
       .then((r) => {
         if (!r.ok) throw new Error(`CSV lataus epäonnistui (${r.status})`);
         return r.text();

@@ -1,5 +1,9 @@
 # Hakukoneen luonnos
-Luonnos hakukoneen käyttöliittymälle Tilastokeskuksen datan pohjalta. Käytössä taulukko, joka on haettu täältä: https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__vaka/statfin_vaka_pxt_14jt.px/
+Luonnos hakukoneen käyttöliittymälle:
+- https://lauramiina.github.io/hakukone-paivakoti-kielet/
+
+Tehty Tilastokeskuksen datan pohjalta.
+Käytössä taulukko, joka on haettu täältä: https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__vaka/statfin_vaka_pxt_14jt.px/
 
 ## Vaaditaan
 - Node.js (suositus: uusin LTS)
